@@ -1,6 +1,6 @@
 
 
-
+<!---
 ---
 permalink: /
 title: "About me"
@@ -18,6 +18,7 @@ I will join [The School of Electrical and Computer Engineering](https://ceat.oks
 
 
 My group is currently looking for strong self-motiveted Ph. D. (with fully financial support), master, and undergraduate students to join my group for diverse curting-edge research projects. We also welcome international scholars and students to visit our labs or conducting collaboration. If you have a strong interest, please feel free to send an email (weidong.cao@wustl.edu) to me. I promise to reply to you in a timely way.
+-->
 
 
 
@@ -25,7 +26,6 @@ My group is currently looking for strong self-motiveted Ph. D. (with fully finan
 
 
 
-<!---
 
 ---
 permalink: /
@@ -78,4 +78,4 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
--->
+
