@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weidong Cao / Ph. D."
+title                    : "Weidong Cao"
 title_separator          : "-"
 name                     : &name "Weidong Cao"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weidong Cao"
+  name             : "Weidong Cao, Ph. D."
   avatar           : "profile.png"
   bio              : "Incoming Assistant Professor"
-  location         : "Location"
+  location         : "Saint Louis, MO, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=9WpO0ZcAAAAJ&hl=en"
   email            : "weidong.cao@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Weidong-Cao-8"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
