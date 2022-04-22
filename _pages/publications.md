@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Publications"
+author_profile: true
+---
+
+
+
 Jourals
 ======
 To be updated.
