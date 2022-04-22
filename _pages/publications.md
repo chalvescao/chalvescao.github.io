@@ -1,12 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /
+permalink: /publications/
 author_profile: true
+
 ---
-
-
-
 
 Jourals
 ======
