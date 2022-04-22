@@ -14,7 +14,9 @@ To be updated.
 Conference
 ======
 
-C1. **(MWSCAS)**, **Weidong Cao**, Ziqiang Wang, Dongmei Li, Xuqiang Zheng, Fule Li, Chun Zhang, Zhihua Wang, "A 40Gb/s 39mW 3-tap adaptive closed-loop decision feedback equalizer in 65nm CMOS," 2015 IEEE 58th International Midwest Symposium on Circuits and Systems (MWSCAS). 
+
+
+C1. **(MWSCAS)**, **Weidong Cao**, Ziqiang Wang, Dongmei Li, Xuqiang Zheng, Fule Li, Chun Zhang, Zhihua Wang, "[A 40Gb/s 39mW 3-tap adaptive closed-loop decision feedback equalizer in 65nm CMOS](https://ieeexplore.ieee.org/document/7282043)," 2015 IEEE 58th International Midwest Symposium on Circuits and Systems (MWSCAS), [[pdf](https://chalvescao.github.io/files/MWSCAS15.pdf)]. 
 
 
 
