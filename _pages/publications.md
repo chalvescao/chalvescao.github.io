@@ -9,7 +9,7 @@ author_profile: true
 Jourals
 ======
 
-J6. **(Nature Nanotechnology)**, **Weidong Cao**, Changqing Wang, Weijian Chen, Song Hu, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated parity–time-symmetric electronics](https://www.nature.com/articles/s41565-021-01038-4)", Nature Nanotechnology 17, 262–268 (2022), [[pdf](https://chalvescao.github.io/files/NN21.pdf)].
+J6. **(Nature Nanotechnology)**, **Weidong Cao**, Changqing Wang, Weijian Chen, Song Hu, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated parity–time-symmetric electronics](https://www.nature.com/articles/s41565-021-01038-4)", Nature Nanotechnology 17, 262–268 (2022), [[pdf](https://chalvescao.github.io/files/NN22.pdf)].
 
 J5. **(TC)**, **Weidong Cao**, Yilong Zhao, Adith Boloor, Yinhe Han, Xuan Zhang, Li Jiang, "[Neural-PIM: Efficient Processing-In-Memory with Neural Approximation of Peripherals](https://ieeexplore.ieee.org/abstract/document/9591330)", IEEE Transactions on Computers, Early Access, 2021, [[pdf](https://chalvescao.github.io/files/TC21.pdf)].
 
@@ -25,9 +25,9 @@ J1. **(Microelectronics)**, **Weidong Cao**, Chenlong Hou, Jinxing Guo, Yilin So
 Conference
 ======
 
-c8. **(AAAI-workshop)**, **Weidong Cao**, Mouhacine Benosman, Xuan Zhang, Rui Ma, "[Domain Knowledge-Based Automated Analog Circuit Design with Deep Reinforcement Learning](https://ai-2-ase.github.io/papers/25%5CCameraReady%5CAAAI_22_workshop_Camera_ready.pdf)," Association for the Advancement of Artificial Intelligence, 1st Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE), [[pdf](https://chalvescao.github.io/files/AAAI22.pdf)].
+c8. **[[AAAI-workshop]]**, **Weidong Cao**, Mouhacine Benosman, Xuan Zhang, Rui Ma, "[Domain Knowledge-Based Automated Analog Circuit Design with Deep Reinforcement Learning](https://ai-2-ase.github.io/papers/25%5CCameraReady%5CAAAI_22_workshop_Camera_ready.pdf)," Association for the Advancement of Artificial Intelligence, 1st Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE), [[pdf](https://chalvescao.github.io/files/AAAI22.pdf)].
 
-C7. **(ICCAD)**, **Weidong Cao**, Liu Ke, Ayan Chakrabarti, Xuan Zhang, "[Neural Network-Inspired Analog-to-Digital Conversion to Achieve Super-Resolution with Low-Precision RRAM Devices](https://ieeexplore.ieee.org/abstract/document/8942099)," 2019 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), [[pdf](https://chalvescao.github.io/files/ICCAD19.pdf)].
+C7. **[[ICCAD]]**, **Weidong Cao**, Liu Ke, Ayan Chakrabarti, Xuan Zhang, "[Neural Network-Inspired Analog-to-Digital Conversion to Achieve Super-Resolution with Low-Precision RRAM Devices](https://ieeexplore.ieee.org/abstract/document/8942099)," 2019 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), [[pdf](https://chalvescao.github.io/files/ICCAD19.pdf)].
 
 C6. **(DATE)**, **Weidong Cao**, Xin He, Ayan Chakrabarti, Xuan Zhang, "[NeuADC: Neural Network-Inspired RRAM-Based Synthesizable Analog-to-Digital Conversion with Reconfigurable Quantization Support](https://ieeexplore.ieee.org/abstract/document/8714933)," 2019 Design, Automation and Test in Europe Conference (DATE), [[pdf](https://chalvescao.github.io/files/DATE19.pdf)], **Best Paper Nomination**.
 
@@ -43,8 +43,16 @@ C1. **(MWSCAS)**, **Weidong Cao**, Ziqiang Wang, Dongmei Li, Xuqiang Zheng, Fule
 
 
 
+Patent
+======
 
+P4. Rui Ma, Mouhacine Benosman, **Weidong Cao**, "A Method of RF/Analog Circuits Electronic Design Automation based on GCN and Deep Reinforcement Learning," US63/268,433, pending, 2022.
 
+P3. **Weidong Cao**, Xuan Zhang, Weijian Chen, Lan Yang, "Fully Integrated Parity-Time Symmetric Electronics," US17/446,000, pending, 2021. 
+ 
+P2. **Weidong Cao**, Ziqiang Wang, Shuai Yuan, Ke Huang, Fule Li, "[A Low-power 3-tap Decision Feedback Equalizer for the Receiver of High-speed Serial Links](https://patents.google.com/patent/CN105187342A/en)," CN105187342A, 2018. 
+
+P1. **Weidong Cao**, Ziqiang Wang, Xuqiang Zheng, Huang Ke, Fule Li, "[A Dynamic Latch with Pull-up PMOS for High-speed Circuit](https://patents.google.com/patent/CN105187045B/en)," CN105187045B, 2017.
 
 
 
