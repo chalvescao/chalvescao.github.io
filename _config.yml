@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weidong Cao's Home Page"
+title                    : "Weidong Cao"
 title_separator          : "-"
 name                     : &name "Weidong Cao"
 description              : &description "personal description"
