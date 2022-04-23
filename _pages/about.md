@@ -12,7 +12,8 @@ redirect_from:
 Weclome to C-lab.
 
 
-I will join the [School of Electrical and Computer Engineering](https://ceat.okstate.edu/ece/welcome-to-ece.html) at [Oklahoma State University](https://go.okstate.edu/) as a Tenure-Track Assitant Professor in the Fall of 2022. My research interests lie in the intesection of VLSI, Electronic Deisgn Automation, Computer Architecture, Machine Learning, and Quantum Computing. 
+
+My research interests lie in the intesection of VLSI, Electronic Deisgn Automation, Computer Architecture, Machine Learning, and Quantum Computing. 
 
 I obtained my Ph. D. degree from the [Department of Electrical & System Engineering](https://ese.wustl.edu/index.html) at [Washington University in St. Louis](https://wustl.edu/) in the Summer of 2021 under the supervising of [Dr. Silvia Zhang](https://xzgroup.wustl.edu/people/xuan-silvia-zhang/). Before that, I obtained my Master degree from the [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/) (previously known as Institue of Microelectronics) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China, in the Summer of 2016. I was very fortunely working in the VLSI design team led by [Dr. Zhihua Wang](https://www.sic.tsinghua.edu.cn/info/1015/1038.htm). I completed my Bachelor degree from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) Xi'an Shaanxi, China, in the Summer of 2013.
 
@@ -28,6 +29,8 @@ To be updated.
 
 
 <!---
+I will join the [School of Electrical and Computer Engineering](https://ceat.okstate.edu/ece/welcome-to-ece.html) at [Oklahoma State University](https://go.okstate.edu/) as a Tenure-Track Assitant Professor in the Fall of 2022. 
+
 the [School of Aeronautics](https://hangkong.nwpu.edu.cn/) at
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
