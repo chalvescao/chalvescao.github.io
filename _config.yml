@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weidong Cao"
+title                    : "Weidong Cao's Home Page"
 title_separator          : "-"
 name                     : &name "Weidong Cao"
 description              : &description "personal description"
@@ -78,11 +78,11 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author#"Incoming Assistant Professor"
 author:
   name             : "Weidong Cao, Ph. D."
   avatar           : "cwd_profile.jpg"
-  bio              : "Incoming Assistant Professor"
+  bio              : "To be updated", 
   location         : "Saint Louis, MO, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
