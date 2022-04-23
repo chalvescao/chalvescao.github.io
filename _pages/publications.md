@@ -9,7 +9,18 @@ author_profile: true
 Jourals
 ======
 
-To be updated.
+J6. **(Nature Nanotechnology)**, **Weidong Cao**, Changqing Wang, Weijian Chen, Song Hu, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated parity–time-symmetric electronics](https://www.nature.com/articles/s41565-021-01038-4)", Nature Nanotechnology 17, 262–268 (2022), [[pdf](https://chalvescao.github.io/files/NN21.pdf)].
+
+J5. **(TC)**, **Weidong Cao**, Yilong Zhao, Adith Boloor, Yinhe Han, Xuan Zhang, Li Jiang, "[Neural-PIM: Efficient Processing-In-Memory with Neural Approximation of Peripherals](https://ieeexplore.ieee.org/abstract/document/9591330)", IEEE Transactions on Computers, Early Access, 2021, [[pdf](https://chalvescao.github.io/files/TC21.pdf)].
+
+J4. **(TC)**, **Weidong Cao**, Yilong Zhao, Adith Boloor, Yinhe Han, Xuan Zhang, Li Jiang, "[Evaluating Neural Network-Inspired Analog-to-Digital Conversion With Low-Precision RRAM](https://ieeexplore.ieee.org/abstract/document/9154425)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 40, no. 5, pp. 808-821, 2021, [[pdf](https://chalvescao.github.io/files/TCAD21.pdf)].
+
+J3. **(TCAD)**, **Weidong Cao**, Xin He, Ayan Chakrabarti, Xuan Zhang, "[NeuADC: Neural Network-Inspired Synthesizable Analog-to-Digital Conversion](https://ieeexplore.ieee.org/abstract/document/8747407)", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 1, pp. 1841-1854, 2020, [[pdf](https://chalvescao.github.io/files/TCAD20.pdf)].
+
+J2. **(Microelectronics journal)**, Fangxu Lv, Xuqiang Zheng, Feng Zhao, Jianye Wang, Shigang Yue, Ziqiang Wang, **Weidong Cao**, Yajun He, Chun Zhang, Hanjun Jiang, Zhihua Wang, "[A power scalable 2–10 Gb/s PI-based clock data recovery for multilane applications](https://www.sciencedirect.com/science/article/pii/S0026269218301423)", Microelectron. J. 82 (2018) 36–45, [[pdf](https://chalvescao.github.io/files/mj18.pdf)].
+
+J1. **(Microelectronics)**, **Weidong Cao**, Chenlong Hou, Jinxing Guo, Yilin Song, Ziqiang Wang, Hanjun Jiang, Zhihua Wang, "[Design and implementation of a 20GHz VCO](https://www.cnki.com.cn/Article/CJFDTotal-MINI201505006.htm)," Microelectronics, 2015, 5, 577-580.
+
 
 Conference
 ======
