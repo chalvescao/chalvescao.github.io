@@ -25,7 +25,7 @@ J1. **[Microelectronics '2015]** **Weidong Cao**, Chenlong Hou, Jinxing Guo, Yil
 Conference
 ======
 
-c8. **[DAC '2022]** **Weidong Cao**, Mouhacine Benosman, Xuan Zhang, Rui Ma, "[Domain Knowledge-Infused Deep Learning for Automated Analog/Radio-Frequency Circuit Parameter Optimization](https://arxiv.org/abs/2204.12948)," 2022 IEEE/ACM Design Automation Conference (DAC), [[pdf](https://chalvescao.github.io/files/DAC22.pdf)].
+c8. **[DAC '2022]** **Weidong Cao**, Mouhacine Benosman, Xuan Zhang, Rui Ma, "[Domain Knowledge-Infused Deep Learning for Automated Analog/Radio-Frequency Circuit Parameter Optimization](https://arxiv.org/abs/2204.12948)," 2022 IEEE/ACM Design Automation Conference (DAC), [[pdf](https://chalvescao.github.io/files/DAC2022.pdf)].
 
 c8. **[AAAI-workshop '2022]** **Weidong Cao**, Mouhacine Benosman, Xuan Zhang, Rui Ma, "[Domain Knowledge-Based Automated Analog Circuit Design with Deep Reinforcement Learning](https://ai-2-ase.github.io/papers/25%5CCameraReady%5CAAAI_22_workshop_Camera_ready.pdf)," Association for the Advancement of Artificial Intelligence 2022, 1st Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE), [[pdf](https://chalvescao.github.io/files/AAAI22.pdf)].
 
