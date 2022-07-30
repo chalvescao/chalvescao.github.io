@@ -9,7 +9,7 @@ author_profile: true
 Jourals
 ======
 
-J7. **[Nature Scientific Reports '2022]** Yuqi Liu **Weidong Cao**, Weijian Chen, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated topological electronics](https://doi.org/10.1038/s41598-022-17010-8)", Scientific Reports volume 12, Article number: 17010 (2022) [[pdf](https://chalvescao.github.io/files/NN22.pdf)], Equal contribution.
+J7. **[Nature Scientific Reports '2022]** Yuqi Liu, **Weidong Cao**, Weijian Chen, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated topological electronics](https://doi.org/10.1038/s41598-022-17010-8)", Scientific Reports volume 12, Article number: 17010 (2022) [[pdf](https://chalvescao.github.io/files/NN22.pdf)], Equal contribution.
 
 J6. **[Nature Nanotechnology '2022]** **Weidong Cao**, Changqing Wang, Weijian Chen, Song Hu, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated parity–time-symmetric electronics](https://www.nature.com/articles/s41565-021-01038-4)", Nature Nanotechnology 17, 262–268 (2022), [[pdf](https://chalvescao.github.io/files/NN22.pdf)], [[Phys.org](https://phys.org/news/2022-04-parity-time-symmetric-range-wavelengths.html)], [[Mirage News](https://www.miragenews.com/opening-up-electromagnetic-spectrum-758709/)], [[True Viral News](https://trueviralnews.com/92501-new-parity-time-symmetric-system-opens-up-range-of-wavelengths-to-researchers-engineers.html)], [[Bioengineer.org](https://bioengineer.org/opening-up-the-electromagnetic-spectrum/)], [[ScienMag](https://scienmag.com/opening-up-the-electromagnetic-spectrum/)], [[Newswise](https://www.newswise.com/articles/opening-up-the-electromagnetic-spectrum)], [[Nanowerk](https://www.nanowerk.com/nanotechnology-news2/newsid=60295.php)].
 
