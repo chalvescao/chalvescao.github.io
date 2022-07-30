@@ -9,7 +9,7 @@ author_profile: true
 Jourals
 ======
 
-J7. **[Nature Scientific Reports '2022]** Yuqi Liu, **Weidong Cao**, Weijian Chen, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated topological electronics](https://doi.org/10.1038/s41598-022-17010-8)", Scientific Reports volume 12, Article number: 17010 (2022) [[pdf](https://chalvescao.github.io/files/NN22.pdf)], Equal contribution.
+J7. **[Nature Scientific Reports '2022]** Yuqi Liu, **Weidong Cao**, Weijian Chen, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated topological electronics](https://doi.org/10.1038/s41598-022-17010-8)", Scientific Reports volume 12, Article number: 17010 (2022), Equal contribution.
 
 J6. **[Nature Nanotechnology '2022]** **Weidong Cao**, Changqing Wang, Weijian Chen, Song Hu, Hua Wang, Lan Yang, Xuan Zhang, "[Fully integrated parity–time-symmetric electronics](https://www.nature.com/articles/s41565-021-01038-4)", Nature Nanotechnology 17, 262–268 (2022), [[pdf](https://chalvescao.github.io/files/NN22.pdf)], [[Phys.org](https://phys.org/news/2022-04-parity-time-symmetric-range-wavelengths.html)], [[Mirage News](https://www.miragenews.com/opening-up-electromagnetic-spectrum-758709/)], [[True Viral News](https://trueviralnews.com/92501-new-parity-time-symmetric-system-opens-up-range-of-wavelengths-to-researchers-engineers.html)], [[Bioengineer.org](https://bioengineer.org/opening-up-the-electromagnetic-spectrum/)], [[ScienMag](https://scienmag.com/opening-up-the-electromagnetic-spectrum/)], [[Newswise](https://www.newswise.com/articles/opening-up-the-electromagnetic-spectrum)], [[Nanowerk](https://www.nanowerk.com/nanotechnology-news2/newsid=60295.php)].
 
@@ -27,7 +27,7 @@ J1. **[Microelectronics '2015]** **Weidong Cao**, Chenlong Hou, Jinxing Guo, Yil
 Conference
 ======
 
-c10. **[ICCAD '2022]** Huifeng Zhu, Zhiyuan Yu, **Weidong Cao**, Ning Zhang, Xuan Zhang, "[PowerTouch: A Security Objective-Guided Automation Framework for Generating Wired Ghost Touch Attacks on Touchscreens]", 2022 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), accepted.
+c10. **[ICCAD '2022]** Huifeng Zhu, Zhiyuan Yu, **Weidong Cao**, Ning Zhang, Xuan Zhang, "[PowerTouch: A Security Objective-Guided Automation Framework for Generating Wired Ghost Touch Attacks on Touchscreens]", 2022 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Accepted.
 
 c9. **[ISLPED '2022, Best Paper Award]** Tianrui Ma, **Weidong Cao**, Fei Qiao, Ayan Chakrabarti, Xuan Zhang, "[HOGEye: Neural Approximation of HOG Feature Extraction in RRAM-Based 3D-Stacked Image Sensors](https://dl.acm.org/doi/abs/10.1145/3531437.3539706)," 2022 ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), [[pdf](https://chalvescao.github.io/files/DAC2022.pdf)].
 
